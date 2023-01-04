@@ -37,7 +37,7 @@
     "http-proxy-middleware": "^0.19.1",
     "js-base64": "^2.5.0",
     "jsencrypt": "^3.0.0-rc.1",
-    "json5": "^2.1.0",
+    "json5": "^2.2.2",
     "less-loader": "^4.1.0",
     "lodash": "^4.17.11",
     "memoize-one": "^5.0.0",
